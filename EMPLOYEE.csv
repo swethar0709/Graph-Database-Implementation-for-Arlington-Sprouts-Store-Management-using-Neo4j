@@ -1,0 +1,7 @@
+sId,SSN,Sname,Street,City,StateAb,Zipcode,Etype,Bdate,Sdate,Edate,Level,Asalary,Agency,Hsalary,Institute,Itype
+1,123456789,Mary Durer,11 Cooper Street,Arlington,TX,76019-1111,F,2000-01-20,2023-01-20,NULL,Associate 2,30000,NULL,NULL,NULL,NULL
+1,123456788,Christian Cart,20 Main Street,Arlington,TX,76019-1111,F,2001-01-02,2023-01-20,NULL,Associate 1,25000,NULL,NULL,NULL,NULL
+1,123456777,Radha Gupta,200 Nedderman Dr,Arlington,TX,76019-1111,T,2005-01-20,2023-01-20,NULL,NULL,,AR Manpower,10,NULL,NULL
+1,123456666,Olampiosi Pi,100 Varsity Circle,Arlington,TX,76019-1111,T,2005-02-01,2023-01-20,NULL,NULL,,Top Performers,10,NULL,NULL
+1,123456780,Cao Peng,12 W. Mitchell St.,Arlington,TX,76019-1111,I,2008-01-20,2023-01-20,NULL,NULL,NULL,NULL,NULL,UTA,U
+1,123456781,Giun Seong,12 S. Pecan St.,Arlington,TX,76019-1111,I,2007-01-01,2023-01-20,NULL,NULL,NULL,NULL,NULL,Arlington High School ,S
